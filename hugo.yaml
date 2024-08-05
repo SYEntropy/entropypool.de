@@ -2,3 +2,7 @@ baseURL: 'https://example.org/'
 languageCode: 'de-de'
 defaultContentLanguage: "de"
 title: 'Entropy Cruising Blog'
+
+module:
+  imports:
+    - path: github.com/gethinode/hinode
